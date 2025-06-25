@@ -31,9 +31,9 @@ A real-time virtual try-on system for glasses that lets users scroll through a c
 
 
 
-⏳ Coming Soon
-  Face shape detection
-  Glasses recommendation engine
-  tyle filters by frame type (round, square, etc.)
-  Streamlit web interface
+##⏳ Coming Soon
+  -Face shape detection
+  -Glasses recommendation engine
+  -tyle filters by frame type (round, square, etc.)
+  -Streamlit web interface
 
