@@ -1,4 +1,4 @@
-# 🕶️ Virtual Glasses Try-On Catalog
+# 🕶️ Real time glasses try-on
 
 A real-time virtual try-on system for glasses that lets users scroll through a catalog of eyewear and see how each style fits their face using their webcam. It automatically aligns glasses to your eyes and rotates them based on your head tilt for a realistic experience.
 
