@@ -22,7 +22,7 @@ A real-time virtual try-on system for glasses that lets users scroll through a c
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - Python 3.x
 - OpenCV
@@ -31,7 +31,7 @@ A real-time virtual try-on system for glasses that lets users scroll through a c
 
 
 
-## ⏳ Coming Soon
+## Coming Soon
   - Face shape detection
   - Glasses recommendation engine
   - tyle filters by frame type (round, square, etc.)
