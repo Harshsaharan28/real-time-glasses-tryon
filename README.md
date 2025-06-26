@@ -29,7 +29,7 @@ A real-time virtual try-on system for glasses that lets users scroll through a c
 - MediaPipe (FaceMesh)
 - NumPy
 
-
+---
 
 ## Coming Soon
   - Face shape detection
