@@ -2,23 +2,23 @@
 
 A real-time virtual try-on system for glasses that lets users scroll through a catalog of eyewear and see how each style fits their face using their webcam. It automatically aligns glasses to your eyes and rotates them based on your head tilt for a realistic experience.
 
-🚧 **Recommendation system coming soon!** Glasses will be auto-suggested based on face shape and preferences.
+**Recommendation system coming soon!** Glasses will be auto-suggested based on face shape and preferences.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔁 Scroll through multiple glasses styles (`N`)
-- 🎥 Live webcam-based face tracking
-- 🎯 Glasses auto-align to your eyes
-- 🔄 Rotates glasses based on face tilt
-- 🎛 Manual adjustments with keyboard:
+- Scroll through multiple glasses styles (`N`)
+- Live webcam-based face tracking
+- Glasses auto-align to your eyes
+- Rotates glasses based on face tilt
+- Manual adjustments with keyboard:
   - `+ / -` to resize
   - `W A S D` to move
   - `R` to reset
   - `S` to save snapshot
-- 📂 Catalog of `.png` glasses overlays
-- 💾 Saves snapshots in `captures/` folder
+- Catalog of `.png` glasses overlays
+- Saves snapshots in `captures/` folder
 
 ---
 
